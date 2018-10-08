@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Specific
+Images*
+scratch/*.gz
+*.sh
+*Answers*
+*-tb-*
+*ngrok*
